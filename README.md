@@ -1,1 +1,2 @@
 # Web-Scrapping-for-Data-Analyst-Vacancies-on-Wuzzuf
+Web scrapping is such an effective way to automate data collection from the different public websites. In this project, I performed web scrapping to get the the retrieve the available data analyst jobs in the first quadrant in 2025. The results were 219 available jobs that were added automatically to a CSV file using the power of Python. The data was then cleaned using a Jupyter notebook and added to an Excel file to have a friendly look at the results.
